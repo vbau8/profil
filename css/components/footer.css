@@ -1,0 +1,15 @@
+footer {
+    color: black;
+    background-color: rgb(214, 212, 212, 0.2);
+    text-align: center;
+    padding: 60px;
+    border-radius: 0px 0px 100px 100px;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+footer a {
+    color: rgb(4, 29, 61);
+    font-weight: 900; 
+    font-family: "Font Awesome 5 Free";
+}

@@ -1,0 +1,8 @@
+.avatar{
+    border-radius: 5em;
+    object-position:top;
+    left: 640px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}

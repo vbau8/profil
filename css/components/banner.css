@@ -1,0 +1,24 @@
+.banner {
+    /* background-image: url("../../images/background.jpeg"); */
+    background-size: cover;
+    background-position: center;
+    padding: 5px 0;
+}
+.banner h1 {
+    color: white;
+    font-size: 3em;
+    background-color: rgba(0,0,0,0.2);
+}
+  
+.banner p {
+    color: whitesmoke;
+    font-size: 2em;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.container{
+   /* width: 1400px;*/
+    margin: 0 auto;
+    color: white;
+}
+  
