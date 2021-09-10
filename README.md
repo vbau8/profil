@@ -1,4 +1,4 @@
 # profil
 Profil
 
-Exemple d'utilisation de HTML/CSS
+Exemple d'utilisation de HTML/CSS/Bootstrap
