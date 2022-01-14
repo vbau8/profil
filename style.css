@@ -14,7 +14,7 @@
     padding: 2%;
 }
 body {
-    background-color:rgb(53, 86, 146);
+    background-color:rgb(63, 132, 169);
     background-position: center;
     text-align: center;
     margin: 0;
@@ -22,7 +22,7 @@ body {
 
 h1 {
     padding: 0;
-    color:rgb(164 176 197);
+    color:  rgb(193 198 230);/*rgb(164 165 197);*/
     text-shadow: 13px 16px 9px 2px rgba(126, 79, 79, 0.63);
 }
 h2 {
@@ -66,27 +66,29 @@ a {
     position:relative;
     width: 20%;
     height: 60%;
-    padding: 20px;
+    padding: 10px;
     background-image: url("images/fondtech1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .formation {
-    right: -65%;
     position:relative;
     color:rgb(178, 211, 240);
     background-color: rgb(4, 29, 61);
-    width: 35%;
     padding: 20px;
     margin-block: 2em;
-    border-radius: 50px 0px 100px 100px;
+    border-radius: 195px 5px 250px 68px;
+    width: 20em;
 }
 .formation p {
     text-align: left;
 }
 .formation a {
     color: rgb(126, 113, 97);
+}
+.formation li{
+    font-size: 92%;
 }
 .card1{
     background-image: url("images/fondtech2.jpg");
@@ -95,8 +97,7 @@ a {
     max-height: 100%;
     color: rgb(193 198 230);
     width: 30em;
+    padding: 20px;
     text-shadow: 2px 2px 20px rgb(78, 39, 28);
 }
-.card2 {
-    padding: 20px;
-}
+
